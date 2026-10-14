@@ -1,0 +1,13 @@
+
+{
+  "name": "codveda-task1",
+  "version": "1.0.0",
+  "description": "Codveda Full-Stack Development Internship - Level 1 Task 1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Ramadhani Ally Mbavu",
+  "license": "ISC"
+}
